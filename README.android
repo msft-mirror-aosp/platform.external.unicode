@@ -1,7 +1,6 @@
-URL: http://www.unicode.org/Public/9.0.0/ucd/
-URL: http://www.unicode.org/repos/draft/trunk/Public/emoji/4.0/
+URL: http://www.unicode.org/Public/10.0.0/ucd/
 URL: http://www.unicode.org/Public/emoji/5.0/
-Version: Unicode 9.0.0, emoji 4.0 beta, and emoji 5.0 beta
+Version: Unicode 10.0.0 beta and emoji 5.0 beta
 License: Unicode
 License File: NOTICE
 
@@ -9,13 +8,5 @@ Description:
 A selection of data files from Unicode.
 
 Local Modifications:
-Sequences for the the three characters U+2640, U+2642, and U+2695 have been
-added to StandardizedVariants.txt in anticipation of getting added to Unicode
-10.0.
-
-emoji-zwj-sequences.txt has been updated to Emoji 5.0 beta version, with
-sequences containing Unicode 10.0 and golfers with skin tones commented out
-(because we don't support those in our emoji font yet).
-
 An additions directory has been added for sequences that we need to support
 in addition to what's specified by Unicode.
