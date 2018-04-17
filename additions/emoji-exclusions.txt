@@ -23,6 +23,3 @@
 1F9B9 1F3FD                                 ; Emoji_Modifier_Sequence   ; supervillain: medium skin tone
 1F9B9 1F3FE                                 ; Emoji_Modifier_Sequence   ; supervillain: medium-dark skin tone
 1F9B9 1F3FF                                 ; Emoji_Modifier_Sequence   ; supervillain: dark skin tone
-
-265F FE0F  ; emoji style; # (1.1) BLACK CHESS PAWN
-267E FE0F  ; emoji style; # (4.1) PERMANENT PAPER SIGN
