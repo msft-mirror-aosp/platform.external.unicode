@@ -6,20 +6,5 @@
 # basically derived from Unicode data files.
 
 # Should be an empty file, used for temporary non-final emoji font drops.
-
-1F9B9 1F3FB 200D 2640 FE0F                  ; Emoji_ZWJ_Sequence  ; woman supervillain: light skin tone
-1F9B9 1F3FB 200D 2642 FE0F                  ; Emoji_ZWJ_Sequence  ; man supervillain: light skin tone
-1F9B9 1F3FC 200D 2640 FE0F                  ; Emoji_ZWJ_Sequence  ; woman supervillain: medium-light skin tone
-1F9B9 1F3FC 200D 2642 FE0F                  ; Emoji_ZWJ_Sequence  ; man supervillain: medium-light skin tone
-1F9B9 1F3FD 200D 2640 FE0F                  ; Emoji_ZWJ_Sequence  ; woman supervillain: medium skin tone
-1F9B9 1F3FD 200D 2642 FE0F                  ; Emoji_ZWJ_Sequence  ; man supervillain: medium skin tone
-1F9B9 1F3FE 200D 2640 FE0F                  ; Emoji_ZWJ_Sequence  ; woman supervillain: medium-dark skin tone
-1F9B9 1F3FE 200D 2642 FE0F                  ; Emoji_ZWJ_Sequence  ; man supervillain: medium-dark skin tone
-1F9B9 1F3FF 200D 2640 FE0F                  ; Emoji_ZWJ_Sequence  ; woman supervillain: dark skin tone
-1F9B9 1F3FF 200D 2642 FE0F                  ; Emoji_ZWJ_Sequence  ; man supervillain: dark skin tone
-
-1F9B9 1F3FB                                 ; Emoji_Modifier_Sequence   ; supervillain: light skin tone
-1F9B9 1F3FC                                 ; Emoji_Modifier_Sequence   ; supervillain: medium-light skin tone
-1F9B9 1F3FD                                 ; Emoji_Modifier_Sequence   ; supervillain: medium skin tone
-1F9B9 1F3FE                                 ; Emoji_Modifier_Sequence   ; supervillain: medium-dark skin tone
-1F9B9 1F3FF                                 ; Emoji_Modifier_Sequence   ; supervillain: dark skin tone
+# ex:
+#1F9B9 1F3FB                             ; Emoji_Modifier_Sequence   ; supervillain: light skin tone
